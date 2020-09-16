@@ -1,3 +1,5 @@
+package basics;
+
 import org.testng.Assert;
 
 public class AssertWithTestNg {

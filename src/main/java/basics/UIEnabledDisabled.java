@@ -1,3 +1,5 @@
+package basics;
+
 import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
 import com.sun.tools.internal.ws.wsdl.document.soap.SOAPUse;
 import org.openqa.selenium.By;

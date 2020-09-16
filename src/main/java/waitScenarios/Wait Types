@@ -1,0 +1,10 @@
+Implicit Wait :- Hey wait for 3 seconds before you throw exception
+Suppose Application load in 1 second.
+It will not wait for 3 seconds, it will implicitly wait for only 1 second and do next step
+
+
+Explicit Wait
+
+Thread Sleep
+
+Fluent Wait
